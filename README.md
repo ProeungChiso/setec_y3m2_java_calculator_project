@@ -1,2 +1,2 @@
-# setec_y3m2_java_calculator_project
+# SETEC Y3M2 JAVA CALCULATOR PROJECT
 Try to use JFrame
